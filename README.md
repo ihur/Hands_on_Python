@@ -18,8 +18,8 @@ Python is an interpreted high-level programming language for general-purpose pro
 2. Select the default options when prompted during the installation of Anaconda.
 
 3. Add Python and Conda to path
-  1) for Windows by using the setx command
-  2) for Macs by using the export command
+    1) for Windows by using the setx command
+    2) for Macs by using the export command
 
 
 ## Introduction to Jupyter Notebook
