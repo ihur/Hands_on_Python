@@ -1,5 +1,4 @@
-# Hands_on_Python
-Hands on Python training for LenddoEFL client
+# Python hands-on training
 
-안녕하세요.
-LenddoEFL client를 위한 Python hands-on tutorial 입니다.
+LenddoEFL에서 제공하는 Python hands-on training tutorial 입니다.
+
