@@ -26,3 +26,7 @@ Python is an interpreted high-level programming language for general-purpose pro
 
 Notebooks are documents produced by the Jupyter Notebook App, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…). Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis (from [Jupyter_notebook_beginner's_guide](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)).
 
+
+## How to use Jupyter Notebook
+
+Just type "jupyter notebook" into the Terminal (shell)!
