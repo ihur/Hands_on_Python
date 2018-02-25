@@ -12,8 +12,8 @@ Python is an interpreted high-level programming language for general-purpose pro
 ## Python Installation
 
 1. Download and install Anaconda 2.7.
-  1) for Windows from [here](https://www.anaconda.com/download/#windows).
-  2) for Macs from [here](https://www.anaconda.com/download/#macos).
+    1) for Windows from [here](https://www.anaconda.com/download/#windows).
+    2) for Macs from [here](https://www.anaconda.com/download/#macos).
 
 2. Select the default options when prompted during the installation of Anaconda.
 
