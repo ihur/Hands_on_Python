@@ -19,7 +19,7 @@ Python is an interpreted high-level programming language for general-purpose pro
 
 3. Add Python and Conda to path
     1) for Windows by using the setx command
-    2) for Macs by using the export command
+    2) for Macs by using the export or source command
 
 
 ## Introduction to Jupyter Notebook
